@@ -1,0 +1,12 @@
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.exe
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.deps.json
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.runtimeconfig.json
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.dll
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\bin\Debug\netcoreapp3.1\Funções interessantes para string.pdb
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.AssemblyInfo.cs
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.dll
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.pdb
+D:\VisualStudioProjetos\Funções interessantes para string\Funções interessantes para string\obj\Debug\netcoreapp3.1\Funções interessantes para string.genruntimeconfig.cache
